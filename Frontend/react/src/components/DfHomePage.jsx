@@ -4,7 +4,8 @@ import { MovieStudioSlider } from "./MovieStudioSlider";
 import { CarouselSlider } from "./CarouselSlider";
 import { Navbar } from "./Navbar";
 import { PopularOfTheWeekSlider } from "./PopularOfTheWeekSlider";
-
+import { FeatureInMovieFlix } from "./FeatureInMovieFlix";
+import { NormalMovieCard } from "./NormalMovieCard";
 
 export function DfHomePage() {
     return(
@@ -14,6 +15,10 @@ export function DfHomePage() {
             <MovieStudioSlider/>
             <CarouselSlider/>
             <PopularOfTheWeekSlider/>
+            <FeatureInMovieFlix/>
+            <NormalMovieCard/>
+            <NormalMovieCard/>
+            <NormalMovieCard/>
         </div>
     )
 }

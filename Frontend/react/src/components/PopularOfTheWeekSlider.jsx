@@ -63,7 +63,7 @@ export function PopularOfTheWeekSlider() {
             }) ;
         };
     return (
-        <div className="w-full px-[30px] mt-[50px]">
+        <div className="w-full px-[30px] mt-[60px] mb-[40px]">
             <h1 className="text-white text-[20px] sm:text-[35px] pl-[20px] sm:pl-[40px] font-semibold font-sans mb-[30px]">Popular of the week</h1>
              <div className="w-full h-auto flex justify-center items-center relative">
                 <div className="w-[95%] h-auto overflow-hidden">

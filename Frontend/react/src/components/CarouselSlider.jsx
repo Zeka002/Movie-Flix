@@ -52,7 +52,7 @@ export function CarouselSlider() {
     };
 
     return (
-        <div className="w-full px-[30px] mb-[60px]">
+        <div className="w-full px-[30px] mb-[80px]">
             <h1 className="font-semibold text-[20px] sm:text-[35px] text-white font-sans mb-[20px] pl-[20px] sm:pl-[40px]">Just Release</h1>
             <div className="w-full h-auto flex justify-center items-center relative">
                 <div className="w-[95%] h-auto overflow-hidden">
